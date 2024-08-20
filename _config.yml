@@ -21,3 +21,8 @@ social:
     url: "https://github.com/geniavf"
   - label: "LinkedIn"
     url: "https://www.linkedin.com/in/geniavershaf2206/"
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
