@@ -1,0 +1,23 @@
+# Site Settings
+title: "Genia Versha's Research Portfolio"
+description: "A brief description of oceanography and geophysics research portfolio"
+baseurl: "" # The subpath of your site, e.g., "/blog"
+url: "https://geniavf.github.io/research-portfolio" # Your GitHub Pages URL
+
+# Navigation links
+navigation:
+  - title: "Home"
+    url: /
+  - title: "Research"
+    url: /research/
+  - title: "Publications"
+    url: /publications/
+  - title: "Contact"
+    url: /contact/
+
+# Social Links
+social:
+  - label: "GitHub"
+    url: "https://github.com/geniavf"
+  - label: "LinkedIn"
+    url: "https://www.linkedin.com/in/geniavershaf2206/"
